@@ -1,5 +1,5 @@
 # Car-Dekho--Used-Car-Price-Prediction
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Domain:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Automotive Industry , Data Science, Machine Learning
@@ -22,7 +22,7 @@ Domain:
 
 **Results:**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Random Forest:**
+***Random Forest:***
 * Achieved the best performance with the highest R² and the lowest MSE/MAE, making it the chosen model for deployment.
 * Hyperparameter Tuning: Grid Search was employed to identify the optimal parameters, such as n_estimators and max_depth. By systematically testing a range of values for these parameters, Grid Search helped in determining the best combination that enhances the Random forest model's performance.
   
